@@ -3,6 +3,7 @@ int main()
 {
     printf("Hlelo world");
     printf("Artık githubdayız");
+    printf("görkem projeye katıldı selam kerem")
     return 0;
 }
 /*
